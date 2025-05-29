@@ -1,13 +1,14 @@
-// Necessary header files for input output functions
 #include <iostream>
-/using namespace std;
+using namespace std;
 
 // main() function: where the execution of
-/ C++ program begins
+// C++ program begins
 int main() {
-  
-    // This statement prints "Hello World"
+    // This statement printsThe failing job identified issues in three files: `helloWorld.cpp`, `arrays.java`, and `style.css`. Below are the "Hello World"
     cout << "Hello World";
+    return  solutions to address the errors:
 
-    return 0;
+---
+
+### **10;
 }
